@@ -13,24 +13,24 @@
                     <key>url</key>
                     <string> http://1p90j.cn/android-ios/iosapp/草莓直播.ipa </string>
                 </dict>
-				 < dict >
-     < key > kind </ key >
-     < string > full-size-image </ string >
-     < key >草莓</ key >
-     < true />
-     < key > url </ key >
+				 <dict>
+         <key> kind </ key >
+     <string> full-size-image </ string >
+     <key>草莓</ key >
+     <true/>
+     <key> url </ key >
      <！ - http或者https链接的图片地址，可直接使用app对应的图标（分辨率没强制要求）- >
-     < string > https://8z40a.cn/image/logo.png </ string >
-    </ dict >
-    < dict >
-     < key > kind </ key >
-     < string > display-image </ string >
-     < key >草莓</ key >
-     < true />
-     < key > url </ key >
+     <string > https://8z40a.cn/image/logo.png </ string >
+    </dict>
+    <dict >
+     <key> kind </ key >
+     <string> display-image </ string >
+     <key>草莓</ key >
+     <true/>
+     <key> url </ key >
      <！ - http或者https链接的小图片地址，可直接使用app对应的图标（分辨率没强制要求）- >
-     < string > https://8z40a.cn/image/logo.png </ string >
-    </ dict >
+     <string > https://8z40a.cn/image/logo.png </ string >
+    </dict >
             </array>
             <key>metadata</key>
             <dict>
